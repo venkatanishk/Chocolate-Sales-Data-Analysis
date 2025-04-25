@@ -1,0 +1,16 @@
+ **README**:
+
+---
+
+### 🎯 **Project Objectives**
+
+- ✅ Load and clean chocolate sales data from a CSV file.
+- 📊 Create interactive visualizations using Plotly and Matplotlib.
+- 🌍 Analyze total sales by country and identify regional trends.
+- 📈 Track monthly sales trends over time.
+- 🍫 Identify top-selling chocolate products.
+- 👤 Evaluate individual salespersons’ performance.
+- 📌 Provide actionable business insights through a visual dashboard in Jupyter Notebook.
+- 💡 Present data in an intuitive, user-friendly format for decision-makers.
+
+---
